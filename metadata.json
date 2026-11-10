@@ -1,0 +1,8 @@
+{
+  "name": "VoyageAI",
+  "description": "AI-first global travel intelligence platform pairing generative itinerary discovery with frosted tactile modernism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
